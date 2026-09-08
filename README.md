@@ -1,13 +1,13 @@
 # Sales-dash-boardd-Excel
   Sales Analytics Dashboard
 
-##  Project Overview
+## Project Overview
 
 This **Sales Analytics Dashboard** provides an interactive view of sales performance, production costs, profit, profit margin, order quantity, regional performance, monthly trends, yearly sales, and quarterly sales.
 
 The dashboard was designed to identify **sales trends, profitable periods, high-performing regions, and business performance patterns** using interactive filters for **Year, Quarter, and Month**.
 
-## 🔑 Key Performance Indicators
+## Key Performance Indicators
 
 | KPI                 |      Result |
 | ------------------- | ----------: |
@@ -17,7 +17,7 @@ The dashboard was designed to identify **sales trends, profitable periods, high-
 | **Profit Margin**   |     **41%** |
 | **Order Quantity**  |  **60,398** |
 
-## 📈 Key Business Findings
+## Key Business Findings
 
 * **Total sales reached $29.36M**, generating approximately **$12.08M profit**.
 * The overall **profit margin is 41%**, indicating a strong level of profitability.
@@ -31,7 +31,7 @@ The dashboard was designed to identify **sales trends, profitable periods, high-
 * Other notable regional contributors include **Northwest, France, Southeast, Germany, and Canada**.
 * The monthly sales trend shows an **overall upward movement toward the end of the year**, with sales peaking in December.
 
-## 🎯 Business Insights
+## Business Insights
 
 1. **Strong profitability:**
    A 41% profit margin indicates that the business is generating healthy returns from its sales.
@@ -51,7 +51,7 @@ The dashboard was designed to identify **sales trends, profitable periods, high-
 6. **Year-over-year growth:**
    The significant sales contribution from 2013 compared with earlier years indicates strong business growth during the analyzed period.
 
-## 🛠️ Dashboard Features
+## Dashboard Features
 
 * KPI cards for **Sales, Production Cost, Profit, Profit Margin, and Order Quantity**
 * Monthly Sales Analysis
@@ -64,11 +64,11 @@ The dashboard was designed to identify **sales trends, profitable periods, high-
 * Interactive **Quarter filter**
 * Interactive **Month filter**
 
-## 💡 Conclusion
+## Conclusion
 
 The dashboard highlights a **profitable and growing sales performance**, with a **41% profit margin**, strong quarterly performance in **Q3**, peak monthly sales in **December**, and **Australia** as the leading region. The analysis can help management make better decisions related to **sales planning, regional strategy, seasonal campaigns, and production-cost optimization**.
 
-## 📂 Project Purpose
+## Project Purpose
 
 This project demonstrates practical skills in **data analysis, business intelligence, dashboard development, KPI analysis, data visualization, and business insight generation**.
 
