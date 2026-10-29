@@ -1,4 +1,4 @@
-# Sales-dash-board-Excel
+# Sales-dashboard-Excel
   Sales Analytics Dashboard
 
 ## Project Overview
